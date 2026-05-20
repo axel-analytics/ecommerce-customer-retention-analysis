@@ -217,6 +217,13 @@ However, their total business impact remained limited because very few customers
 
 ---
 
+# Full Presentation
+
+You can view the complete business presentation here:
+
+[Download Full Business Presentation](presentation/ecommerce-business-analysis.pdf)
+
+
 # Final Business Conclusion
 
 Although the company continued reporting positive revenue growth, the analysis revealed multiple structural weaknesses hidden beneath surface-level KPIs.
