@@ -5,7 +5,7 @@ End-to-end business analysis project focused on understanding how an e-commerce 
 
 This project combines SQL and Power BI to analyze revenue evolution, customer behavior, retention performance, and long-term business sustainability.
 
----
+![Dashboard Overview](power%20bi/E-Commerce.png)
 
 # Executive Summary
 
@@ -90,7 +90,8 @@ The results confirmed that the business was gradually losing growth efficiency d
 
 This indicated that the company was transitioning from rapid expansion toward stagnation.
 
----
+![Revenue Growth Slowdown](sql/revenue_growth_analysis.png)
+
 
 ## Customer Segmentation Analysis
 
@@ -107,7 +108,8 @@ Returning customers represented only a very small portion of total users.
 
 This indicated that the business depended heavily on constant customer acquisition instead of customer loyalty.
 
----
+![New vs Returning Customers](sql/new_vs_repeat_customers.png)
+
 
 ## Customer Retention Analysis
 
@@ -123,7 +125,7 @@ This suggested that the company struggled to convert buyers into repeat customer
 
 The business generated sales successfully, but failed to build long-term customer relationships.
 
----
+![Customer Retention Analysis](sql/customer_retention_analysis.png)
 
 ## Revenue Dependency Analysis
 
@@ -137,7 +139,8 @@ Although returning customers generated higher average revenue per user, their ov
 
 This created significant scalability risk because future growth depended heavily on maintaining continuous customer acquisition.
 
----
+![Revenue Dependency Analysis](sql/revenue_dependency_analysis.png)
+
 
 ## Product Category Analysis
 
@@ -152,7 +155,8 @@ The analysis measured:
 
 This helped provide additional business context regarding the company’s revenue composition and commercial structure.
 
----
+![Product Category KPIs](sql/product_category_kpis.png)
+
 
 # Dashboard Development (Power BI)
 
